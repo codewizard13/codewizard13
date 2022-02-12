@@ -1,10 +1,10 @@
-# Hi there, I'm Jesse - aka [codeSTACKr][youtube] 👋 
+# Hi there, I'm Jesse - aka [codewizard13][youtube] 👋 
 
 [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCDCHcqyeQgJ-jVSd6VJkbCw?logo=youtube&logoColor=red&style=for-the-badge)][youtube]
 [![Website](https://img.shields.io/website?label=erichepperle.com&style=for-the-badge&url=https%3A%2F%2Ferichepperle.com)](https://erichepperle.com)
-[![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr)
+[![Twitter Follow](https://img.shields.io/twitter/follow/codewizard13?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fcodewizard13&screen_name=codewizard13)
 
-[![Visual Studio Marketplace Rating (Stars)](https://img.shields.io/visual-studio-marketplace/stars/codestackr.codestackr-theme?label=codeSTACKr%20VS%20Code%20Theme&logo=visualstudiocode&logoColor=ff652f&style=for-the-badge)](https://marketplace.visualstudio.com/items?itemName=codestackr.codestackr-theme)
+[![Visual Studio Marketplace Rating (Stars)](https://img.shields.io/visual-studio-marketplace/stars/codestackr.codestackr-theme?label=codewizard13%20VS%20Code%20Theme&logo=visualstudiocode&logoColor=ff652f&style=for-the-badge)](https://marketplace.visualstudio.com/items?itemName=codestackr.codestackr-theme)
 [![Become A VS Code SuperHero](https://img.shields.io/badge/-Become%20A%20VS%20Code%20SuperHero%20%E2%86%92-gray.svg?colorB=ff652f&style=for-the-badge)](https://vsCodeHero.com)
 
 
@@ -28,11 +28,11 @@
 [![website](./img/twitter-light.svg)](https://twitter.com/codestackr#gh-light-mode-only)
 [![website](./img/twitter-dark.svg)](https://twitter.com/codestackr#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/linkedin-light.svg)](https://linkedin.com/in/codeSTACKr#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://linkedin.com/in/codeSTACKr#gh-dark-mode-only)
+[![website](./img/linkedin-light.svg)](https://linkedin.com/in/codewizard13#gh-light-mode-only)
+[![website](./img/linkedin-dark.svg)](https://linkedin.com/in/codewizard13#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/instagram-light.svg)](https://instagram.com/codeSTACKr#gh-light-mode-only)
-[![website](./img/instagram-dark.svg)](https://instagram.com/codeSTACKr#gh-dark-mode-only)
+[![website](./img/instagram-light.svg)](https://instagram.com/codewizard13#gh-light-mode-only)
+[![website](./img/instagram-dark.svg)](https://instagram.com/codewizard13#gh-dark-mode-only)
 
 ### Languages and Tools:
 
@@ -91,11 +91,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#74](https://github.com/codeSTACKr/create-10k-nft-collection/issues/74) in [codeSTACKr/create-10k-nft-collection](https://github.com/codeSTACKr/create-10k-nft-collection)
-2. 🗣 Commented on [#73](https://github.com/codeSTACKr/create-10k-nft-collection/issues/73) in [codeSTACKr/create-10k-nft-collection](https://github.com/codeSTACKr/create-10k-nft-collection)
-3. 🗣 Commented on [#71](https://github.com/codeSTACKr/create-10k-nft-collection/issues/71) in [codeSTACKr/create-10k-nft-collection](https://github.com/codeSTACKr/create-10k-nft-collection)
-4. 🗣 Commented on [#69](https://github.com/codeSTACKr/create-10k-nft-collection/issues/69) in [codeSTACKr/create-10k-nft-collection](https://github.com/codeSTACKr/create-10k-nft-collection)
-5. ❗️ Closed issue [#69](https://github.com/codeSTACKr/create-10k-nft-collection/issues/69) in [codeSTACKr/create-10k-nft-collection](https://github.com/codeSTACKr/create-10k-nft-collection)
+1. 🗣 Commented on [#74](https://github.com/codewizard13/create-10k-nft-collection/issues/74) in [codewizard13/create-10k-nft-collection](https://github.com/codewizard13/create-10k-nft-collection)
+2. 🗣 Commented on [#73](https://github.com/codewizard13/create-10k-nft-collection/issues/73) in [codewizard13/create-10k-nft-collection](https://github.com/codewizard13/create-10k-nft-collection)
+3. 🗣 Commented on [#71](https://github.com/codewizard13/create-10k-nft-collection/issues/71) in [codewizard13/create-10k-nft-collection](https://github.com/codewizard13/create-10k-nft-collection)
+4. 🗣 Commented on [#69](https://github.com/codewizard13/create-10k-nft-collection/issues/69) in [codewizard13/create-10k-nft-collection](https://github.com/codewizard13/create-10k-nft-collection)
+5. ❗️ Closed issue [#69](https://github.com/codewizard13/create-10k-nft-collection/issues/69) in [codewizard13/create-10k-nft-collection](https://github.com/codewizard13/create-10k-nft-collection)
 <!--END_SECTION:activity-->
 
 </details>
@@ -103,7 +103,7 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
+  <img align="left" alt="codewizard13's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=codewizard13&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
 
 </details>
 
