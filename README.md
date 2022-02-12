@@ -63,6 +63,12 @@
 
 ---
 
+# StackOverflow Activity
+<!-- STACKOVERFLOW:START -->
+<!-- STACKOVERFLOW:END -->
+
+---
+
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
