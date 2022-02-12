@@ -62,7 +62,7 @@
 
 ---
 
-### StackOverflow Activity
+### <img align="left" alt="Stack Overflow" width="26px" src="./img/stackoverflow.svg" style="padding-right:3px;" /> Stack Overflow Activity
 <!-- STACKOVERFLOW:START -->
 - [How to Output Array from Recursive PHP 7 Function without Array to String Error](https://stackoverflow.com/questions/71001079/how-to-output-array-from-recursive-php-7-function-without-array-to-string-error)
 - [Webpack - devServer.watchFiles breaks Hot Module Replacement &lpar;HMR&rpar; in webpack-dev-server](https://stackoverflow.com/questions/70855375/webpack-devserver-watchfiles-breaks-hot-module-replacement-hmr-in-webpack-de)
