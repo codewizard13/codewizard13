@@ -110,7 +110,7 @@
 [website]: https://erichepperle.com
 [twitter]: https://twitter.com/codeSTACKr
 [youtube]: https://www.youtube.com/channel/UCp93Jok5b2D4-LbIM4ZNNqA
-[instagram]: https://instagram.com/codeSTACKr
+[instagram]: https://instagram.com/erichepperledesigns
 [linkedin]: https://linkedin.com/in/codeSTACKr
 [webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
 [jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
