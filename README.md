@@ -114,4 +114,4 @@
 [linkedin]: https://linkedin.com/in/erichepperle
 [webdevplaylist]: https://www.youtube.com/playlist?list=PLhCzsLE0NTmFRUpW7otaSpOg1tzaEPXCn
 [jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
-[cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
+[cssplaylist]: https://www.youtube.com/watch?v=KnbHPggACJQ&list=PLhCzsLE0NTmEeklnfrCi91Dvjlp-4Ej5J
