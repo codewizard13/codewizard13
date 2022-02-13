@@ -76,6 +76,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Learning Evolus Pencil by Modeling a Mockup Wireframe of WordPress Dashboard](https://erichepperle.com/learning-evolus-pencil-by-modeling-a-mockup-wireframe-of-wordpress-dashboard/)
+- [News Item 3](https://erichepperle.com/news-item-3/)
+- [News Item 2](https://erichepperle.com/news-item-2/)
+- [A Third Opinion](https://erichepperle.com/a-third-opinion/)
+- [Some Other Opinion](https://erichepperle.com/some-other-opinion/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://erichepperle.com)
