@@ -76,11 +76,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Learning Evolus Pencil by Modeling a Mockup Wireframe of WordPress Dashboard](https://erichepperle.com/learning-evolus-pencil-by-modeling-a-mockup-wireframe-of-wordpress-dashboard/)
-- [News Item 3](https://erichepperle.com/news-item-3/)
-- [News Item 2](https://erichepperle.com/news-item-2/)
-- [A Third Opinion](https://erichepperle.com/a-third-opinion/)
-- [Some Other Opinion](https://erichepperle.com/some-other-opinion/)
+- [NOTES: 2021-04-26 | Notes on LinkedIn Learning PHP Videos](https://erichepperle.com/notes-20210426-php-linkedinlearning-2/)
+- [NOTES: 2021-04-26 | Thoughts on PHP and Life](https://erichepperle.com/notes-20210426-php-linkedinlearning/)
+- [PHP Fatal Error: Call to Member Function on Array](https://erichepperle.com/linkedin-learning-php-fatal-error-call-member-function-array/)
+- [Code Sample: JavaScript ES6 – Scrape OneTab Links &lpar;2018&rpar;](https://erichepperle.com/code-sample-es6-scrape-onetab-links/)
+- [Quick Tip: Download Entire Playlist with Youtube-DL CLI](https://erichepperle.com/youtube-dl-playlist-download/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://erichepperle.com)
