@@ -75,6 +75,8 @@
 - [Answer by Eric Hepperle - CodeSlayer2010 for Equivalent of ES6 template literals in PHP?](https://stackoverflow.com/questions/56111001/equivalent-of-es6-template-literals-in-php/69979571#69979571)
 <!-- STACKOVERFLOW:END -->
 
+➡️ [more Stack Overflow activity...](https://stackoverflow.com/users/1316396/eric-hepperle-codeslayer2010?tab=topactivity)
+
 ---
 
 ### 📕 Latest Blog Posts
