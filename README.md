@@ -87,7 +87,7 @@
 - [Quick Tip: Download Entire Playlist with Youtube-DL CLI](https://erichepperle.com/youtube-dl-playlist-download/)
 <!-- BLOG-POST-LIST:END -->
 
-➡️ [more blog posts...](https://erichepperle.com)
+➡️ [more blog posts...](https://erichepperle.com/category/programming-coding)
 
 ---
 
