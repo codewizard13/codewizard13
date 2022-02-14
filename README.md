@@ -92,8 +92,7 @@
 
 [![Eric's GitHub stats](https://github-readme-stats.vercel.app/api?username=codewizard13&theme=react&show_icons=true)](https://github.com/codewizard13/github-readme-stats)
 
-<details>
-  <summary>:zap: Recent GitHub Activity</summary>
+:zap: Recent GitHub Activity
   
 <!--START_SECTION:activity-->
 1. ❗️ Closed issue [#9](https://github.com/codewizard13/codewizard13/issues/9) in [codewizard13/codewizard13](https://github.com/codewizard13/codewizard13)
@@ -102,8 +101,6 @@
 4. ❗️ Closed issue [#11](https://github.com/codewizard13/codewizard13/issues/11) in [codewizard13/codewizard13](https://github.com/codewizard13/codewizard13)
 5. ❗️ Opened issue [#11](https://github.com/codewizard13/codewizard13/issues/11) in [codewizard13/codewizard13](https://github.com/codewizard13/codewizard13)
 <!--END_SECTION:activity-->
-
-</details>
 
 [website]: https://erichepperle.com
 [twitter]: https://twitter.com/EricLHepperle
