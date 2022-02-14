@@ -25,8 +25,8 @@
 [![website](./img/linkedin-light.svg)](https://linkedin.com/in/erichepperle#gh-light-mode-only)
 [![website](./img/linkedin-dark.svg)](https://linkedin.com/in/erichepperle#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/instagram-light.svg)](https://instagram.com/codewizard13#gh-light-mode-only)
-[![website](./img/instagram-dark.svg)](https://instagram.com/codewizard13#gh-dark-mode-only)
+[![website](./img/instagram-light.svg)](https://instagram.com/erichepperledesigns#gh-light-mode-only)
+[![website](./img/instagram-dark.svg)](https://instagram.com/erichepperledesigns#gh-dark-mode-only)
 
 ### Languages and Tools:
 
