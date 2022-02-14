@@ -19,8 +19,8 @@
 [![website](./img/youtube-light.svg)](https://www.youtube.com/channel/UCp93Jok5b2D4-LbIM4ZNNqA#gh-light-mode-only)
 [![website](./img/youtube-dark.svg)](https://www.youtube.com/channel/UCp93Jok5b2D4-LbIM4ZNNqA#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/twitter-light.svg)](https://twitter.com/codestackr#gh-light-mode-only)
-[![website](./img/twitter-dark.svg)](https://twitter.com/codestackr#gh-dark-mode-only)
+[![website](./img/twitter-light.svg)](https://twitter.com/EricLHepperle#gh-light-mode-only)
+[![website](./img/twitter-dark.svg)](https://twitter.com/EricLHepperle#gh-dark-mode-only)
 &nbsp;&nbsp;
 [![website](./img/linkedin-light.svg)](https://linkedin.com/in/codewizard13#gh-light-mode-only)
 [![website](./img/linkedin-dark.svg)](https://linkedin.com/in/codewizard13#gh-dark-mode-only)
