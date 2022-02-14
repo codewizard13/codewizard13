@@ -90,6 +90,8 @@
 
 ---
 
+[![Eric's GitHub stats](https://github-readme-stats.vercel.app/api?username=codewizard13&theme=react&show_icons=true)](https://github.com/codewizard13/github-readme-stats)
+
 <details>
   <summary>:zap: Recent GitHub Activity</summary>
   
