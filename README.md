@@ -16,8 +16,8 @@
 [![website](./img/globe-light.svg)](https://erichepperle.com#gh-light-mode-only)
 [![website](./img/globe-dark.svg)](https://erichepperle.com#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/youtube-light.svg)](https://youtube.com/codestackr#gh-light-mode-only)
-[![website](./img/youtube-dark.svg)](https://youtube.com/codestackr#gh-dark-mode-only)
+[![website](./img/youtube-light.svg)](https://www.youtube.com/channel/UCp93Jok5b2D4-LbIM4ZNNqA#gh-light-mode-only)
+[![website](./img/youtube-dark.svg)](https://www.youtube.com/channel/UCp93Jok5b2D4-LbIM4ZNNqA#gh-dark-mode-only)
 &nbsp;&nbsp;
 [![website](./img/twitter-light.svg)](https://twitter.com/codestackr#gh-light-mode-only)
 [![website](./img/twitter-dark.svg)](https://twitter.com/codestackr#gh-dark-mode-only)
@@ -62,7 +62,7 @@
 <td><a href="https://www.youtube.com/watch?v=0ItyU4nlHr0">WordPress Tutorial: Disable shipping on virtual WooCommerce Products</a><br/>Oct 1, 2018</td></tr></table>
 <!-- YOUTUBE:END -->
 
-➡️ [more videos...](https://youtube.com/codestackr)
+➡️ [more videos...](https://www.youtube.com/channel/UCp93Jok5b2D4-LbIM4ZNNqA)
 
 ---
 
