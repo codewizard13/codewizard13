@@ -2,7 +2,7 @@ name: Update README
 
 on:
   schedule:
-    - cron: '*/30 * * * *'
+    - cron: '0 2 1/7 * *' # Runs at 2:00 AM every 7th day-of-month from 1 through 31 (once a week)
   workflow_dispatch:
 
 jobs:
