@@ -50,7 +50,16 @@
 
 ### 📺 Latest YouTube Videos
 
-<!-- YOUTUBE:START -->
+<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=LugDsyNV-P8"><img width="140px" src="https://i.ytimg.com/vi/LugDsyNV-P8/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=LugDsyNV-P8">WordPress Tutorial: How To Install, Set Up &amp; Configure WordPress Multisite</a><br/>Oct 9, 2018</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=W8s-LcXU-io"><img width="140px" src="https://i.ytimg.com/vi/W8s-LcXU-io/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=W8s-LcXU-io">JavaScript Tutorial: Mapping ES6 arrays with HTML5 Local Storage</a><br/>Oct 8, 2018</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=fRbbyHXGKYk"><img width="140px" src="https://i.ytimg.com/vi/fRbbyHXGKYk/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=fRbbyHXGKYk">WordPress Tutorial: How To Download and Install WordPress [Basics]</a><br/>Oct 8, 2018</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=VqAmWUY0E4I"><img width="140px" src="https://i.ytimg.com/vi/VqAmWUY0E4I/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=VqAmWUY0E4I">WordPress Tutorial: Create New Blog Post [Basics]</a><br/>Oct 5, 2018</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=0ItyU4nlHr0"><img width="140px" src="https://i.ytimg.com/vi/0ItyU4nlHr0/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=0ItyU4nlHr0">WordPress Tutorial: Disable shipping on virtual WooCommerce Products</a><br/>Oct 1, 2018</td></tr></table>
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/codestackr)
