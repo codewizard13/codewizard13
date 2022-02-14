@@ -48,7 +48,7 @@
 
 ---
 
-### 📺 Latest YouTube Videos
+### 📺 Featured YouTube Videos
 
 <!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=LugDsyNV-P8"><img width="140px" src="https://i.ytimg.com/vi/LugDsyNV-P8/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=LugDsyNV-P8">WordPress Tutorial: How To Install, Set Up &amp; Configure WordPress Multisite</a><br/>Oct 9, 2018</td></tr></table>
