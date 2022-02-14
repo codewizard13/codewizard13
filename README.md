@@ -117,5 +117,5 @@
 [instagram]: https://instagram.com/erichepperledesigns
 [linkedin]: https://linkedin.com/in/erichepperle
 [webdevplaylist]: https://www.youtube.com/playlist?list=PLhCzsLE0NTmFRUpW7otaSpOg1tzaEPXCn
-[jsplaylist]: https://www.youtube.com/watch?v=W8s-LcXU-io&list=PLhCzsLE0NTmEHW3FOsKr9ryg4gtLdmgL6
+[jsplaylist]: https://www.youtube.com/playlist?list=PLhCzsLE0NTmEHW3FOsKr9ryg4gtLdmgL6
 [cssplaylist]: https://www.youtube.com/playlist?list=PLhCzsLE0NTmEeklnfrCi91Dvjlp-4Ej5J
