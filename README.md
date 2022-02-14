@@ -5,11 +5,12 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/EricLHepperle?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fcodewizard13&screen_name=EricLHepperle)
 
 ## I'm a Husband, Web Developer, and lover of Jesus Christ
-
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2022 Goals: Learn more about web3
-- ⚡ Fun fact: I love to draw and play guitar / drums
+- 🌱 I’m currently learning: 
+  - **WordPress Web Development** (plugins & themes from scratch)
+  - **Responsive mobile-first UI/UX Design** with **Figma**
+- 👯 I’m looking to collaborate with other developers
+- 🥅 2022 Goals: Master [modern web development workflow](https://www.udemy.com/course/git-a-web-developer-job-mastering-the-modern-workflow)
+- ⚡ Fun fact: I love to play guitar and used to be in a rock band
 
 ### Connect with me:
 
