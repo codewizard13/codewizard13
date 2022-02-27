@@ -65,11 +65,11 @@
 
 ### <img align="left" alt="Stack Overflow" width="26px" src="./img/stackoverflow.svg" style="padding-right:3px;" /> Stack Overflow Activity
 <!-- STACKOVERFLOW:START -->
+- [Edit Windows 10 boot config &lpar;BCEDIT?&rpar; to disable Safe Mode [closed]](https://stackoverflow.com/questions/71255825/edit-windows-10-boot-config-bcedit-to-disable-safe-mode)
 - [How to Output Array from Recursive PHP 7 Function without Array to String Error](https://stackoverflow.com/questions/71001079/how-to-output-array-from-recursive-php-7-function-without-array-to-string-error)
 - [Webpack - devServer.watchFiles breaks Hot Module Replacement &lpar;HMR&rpar; in webpack-dev-server](https://stackoverflow.com/questions/70855375/webpack-devserver-watchfiles-breaks-hot-module-replacement-hmr-in-webpack-de)
 - [What is the proper term for recursively processing or &quot;spidering&quot; a JavaScript object with unknown keys?](https://stackoverflow.com/questions/70291214/what-is-the-proper-term-for-recursively-processing-or-spidering-a-javascript-o)
 - [PHP strpos - Find &#39;invent&#39;, not &#39;invention&#39; in haystack? [duplicate]](https://stackoverflow.com/questions/70058713/php-strpos-find-invent-not-invention-in-haystack)
-- [Answer by Eric Hepperle - CodeSlayer2010 for Equivalent of ES6 template literals in PHP?](https://stackoverflow.com/questions/56111001/equivalent-of-es6-template-literals-in-php/69979571#69979571)
 <!-- STACKOVERFLOW:END -->
 
 ➡️ [more Stack Overflow activity...](https://stackoverflow.com/users/1316396/eric-hepperle-codeslayer2010?tab=topactivity)
