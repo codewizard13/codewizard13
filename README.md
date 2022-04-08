@@ -8,6 +8,7 @@
 - 🌱 I’m currently learning: 
   - **WordPress Web Development** (plugins & themes from scratch)
   - **Responsive mobile-first UI/UX Design** with **Figma**
+  - ReactJS, Flow, Hack
 - 👯 I’m looking to collaborate with other developers
 - 🥅 2022 Goals: Master [modern web development workflow](https://www.udemy.com/course/git-a-web-developer-job-mastering-the-modern-workflow)
 - ⚡ Fun fact: I love to play guitar and used to be in a rock band
