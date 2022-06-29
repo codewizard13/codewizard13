@@ -96,7 +96,7 @@
 :zap: Recent GitHub Activity
   
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#9064](https://github.com/facebook/hhvm/issues/9064) in [facebook/hhvm](https://github.com/facebook/hhvm)
+1. 🗣 Commented on [#301](https://github.com/Rob--W/cors-anywhere/issues/301) in [Rob--W/cors-anywhere](https://github.com/Rob--W/cors-anywhere)
 2. 🗣 Commented on [#9063](https://github.com/facebook/hhvm/issues/9063) in [facebook/hhvm](https://github.com/facebook/hhvm)
 3. ❗️ Opened issue [#9063](https://github.com/facebook/hhvm/issues/9063) in [facebook/hhvm](https://github.com/facebook/hhvm)
 4. 🎉 Merged PR [#1](https://github.com/codewizard13/es6-chal-numincdec/pull/1) in [codewizard13/es6-chal-numincdec](https://github.com/codewizard13/es6-chal-numincdec)
