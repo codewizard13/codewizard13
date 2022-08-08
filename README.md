@@ -96,11 +96,11 @@
 :zap: Recent GitHub Activity
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3434](https://github.com/w3c/csswg-drafts/issues/3434) in [w3c/csswg-drafts](https://github.com/w3c/csswg-drafts)
-2. 🗣 Commented on [#3434](https://github.com/w3c/csswg-drafts/issues/3434) in [w3c/csswg-drafts](https://github.com/w3c/csswg-drafts)
-3. 🗣 Commented on [#301](https://github.com/Rob--W/cors-anywhere/issues/301) in [Rob--W/cors-anywhere](https://github.com/Rob--W/cors-anywhere)
-4. 🎉 Merged PR [#1](https://github.com/codewizard13/es6-chal-numincdec/pull/1) in [codewizard13/es6-chal-numincdec](https://github.com/codewizard13/es6-chal-numincdec)
-5. 💪 Opened PR [#1](https://github.com/codewizard13/es6-chal-numincdec/pull/1) in [codewizard13/es6-chal-numincdec](https://github.com/codewizard13/es6-chal-numincdec)
+1. 🗣 Commented on [#211](https://github.com/glenn2223/vscode-live-sass-compiler/issues/211) in [glenn2223/vscode-live-sass-compiler](https://github.com/glenn2223/vscode-live-sass-compiler)
+2. 🗣 Commented on [#211](https://github.com/glenn2223/vscode-live-sass-compiler/issues/211) in [glenn2223/vscode-live-sass-compiler](https://github.com/glenn2223/vscode-live-sass-compiler)
+3. ❗️ Opened issue [#211](https://github.com/glenn2223/vscode-live-sass-compiler/issues/211) in [glenn2223/vscode-live-sass-compiler](https://github.com/glenn2223/vscode-live-sass-compiler)
+4. 🗣 Commented on [#3434](https://github.com/w3c/csswg-drafts/issues/3434) in [w3c/csswg-drafts](https://github.com/w3c/csswg-drafts)
+5. 🗣 Commented on [#3434](https://github.com/w3c/csswg-drafts/issues/3434) in [w3c/csswg-drafts](https://github.com/w3c/csswg-drafts)
 <!--END_SECTION:activity-->
 
 [website]: https://erichepperle.com
