@@ -98,8 +98,8 @@
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#211](https://github.com/glenn2223/vscode-live-sass-compiler/issues/211) in [glenn2223/vscode-live-sass-compiler](https://github.com/glenn2223/vscode-live-sass-compiler)
 2. 🗣 Commented on [#211](https://github.com/glenn2223/vscode-live-sass-compiler/issues/211) in [glenn2223/vscode-live-sass-compiler](https://github.com/glenn2223/vscode-live-sass-compiler)
-3. ❗️ Opened issue [#211](https://github.com/glenn2223/vscode-live-sass-compiler/issues/211) in [glenn2223/vscode-live-sass-compiler](https://github.com/glenn2223/vscode-live-sass-compiler)
-4. 🗣 Commented on [#3434](https://github.com/w3c/csswg-drafts/issues/3434) in [w3c/csswg-drafts](https://github.com/w3c/csswg-drafts)
+3. 🗣 Commented on [#211](https://github.com/glenn2223/vscode-live-sass-compiler/issues/211) in [glenn2223/vscode-live-sass-compiler](https://github.com/glenn2223/vscode-live-sass-compiler)
+4. ❗️ Opened issue [#211](https://github.com/glenn2223/vscode-live-sass-compiler/issues/211) in [glenn2223/vscode-live-sass-compiler](https://github.com/glenn2223/vscode-live-sass-compiler)
 5. 🗣 Commented on [#3434](https://github.com/w3c/csswg-drafts/issues/3434) in [w3c/csswg-drafts](https://github.com/w3c/csswg-drafts)
 <!--END_SECTION:activity-->
 
