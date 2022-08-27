@@ -66,11 +66,11 @@
 
 ### <img align="left" alt="Stack Overflow" width="26px" src="./img/stackoverflow.svg" style="padding-right:3px;" /> Stack Overflow Activity
 <!-- STACKOVERFLOW:START -->
+- [PHP Web Scraper Suddenly Not Working - 403 Errors](https://stackoverflow.com/questions/73388350/php-web-scraper-suddenly-not-working-403-errors)
+- [Gulp: throw new ERR_INVALID_FILE_URL_PATH&lpar;&#39;must be absolute&#39;&rpar;](https://stackoverflow.com/questions/73169405/gulp-throw-new-err-invalid-file-url-pathmust-be-absolute)
 - [Answer by Eric Hepperle - CodeSlayer2010 for How do I override the CSS content property of a pseudo ::before/::after element?](https://stackoverflow.com/questions/72537963/how-do-i-override-the-css-content-property-of-a-pseudo-before-after-element/72537964#72537964)
 - [How do I override the CSS content property of a pseudo ::before/::after element?](https://stackoverflow.com/questions/72537963/how-do-i-override-the-css-content-property-of-a-pseudo-before-after-element)
 - [How to Output Array from Recursive PHP 7 Function without Array to String Error](https://stackoverflow.com/questions/71001079/how-to-output-array-from-recursive-php-7-function-without-array-to-string-error)
-- [Webpack - devServer.watchFiles breaks Hot Module Replacement &lpar;HMR&rpar; in webpack-dev-server](https://stackoverflow.com/questions/70855375/webpack-devserver-watchfiles-breaks-hot-module-replacement-hmr-in-webpack-de)
-- [What is the proper term for recursively processing or &quot;spidering&quot; a JavaScript object with unknown keys?](https://stackoverflow.com/questions/70291214/what-is-the-proper-term-for-recursively-processing-or-spidering-a-javascript-o)
 <!-- STACKOVERFLOW:END -->
 
 ➡️ [more Stack Overflow activity...](https://stackoverflow.com/users/1316396/eric-hepperle-codeslayer2010?tab=topactivity)
