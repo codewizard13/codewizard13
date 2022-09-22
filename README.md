@@ -96,11 +96,11 @@
 :zap: Recent GitHub Activity
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1](https://github.com/codewizard13/ehw-php-scrape-linkedin-course-pics/issues/1) in [codewizard13/ehw-php-scrape-linkedin-course-pics](https://github.com/codewizard13/ehw-php-scrape-linkedin-course-pics)
-2. ❗️ Opened issue [#2](https://github.com/codewizard13/ehw-php-scrape-linkedin-course-pics/issues/2) in [codewizard13/ehw-php-scrape-linkedin-course-pics](https://github.com/codewizard13/ehw-php-scrape-linkedin-course-pics)
-3. 🗣 Commented on [#1](https://github.com/codewizard13/ehw-php-scrape-linkedin-course-pics/issues/1) in [codewizard13/ehw-php-scrape-linkedin-course-pics](https://github.com/codewizard13/ehw-php-scrape-linkedin-course-pics)
-4. ❗️ Opened issue [#1](https://github.com/codewizard13/ehw-php-scrape-linkedin-course-pics/issues/1) in [codewizard13/ehw-php-scrape-linkedin-course-pics](https://github.com/codewizard13/ehw-php-scrape-linkedin-course-pics)
-5. ❗️ Opened issue [#1](https://github.com/codewizard13/ehw-app-scrape-course-tuts/issues/1) in [codewizard13/ehw-app-scrape-course-tuts](https://github.com/codewizard13/ehw-app-scrape-course-tuts)
+1. 🗣 Commented on [#107](https://github.com/webtoolsgroup/InstantWP/issues/107) in [webtoolsgroup/InstantWP](https://github.com/webtoolsgroup/InstantWP)
+2. 🗣 Commented on [#1](https://github.com/codewizard13/ehw-php-scrape-linkedin-course-pics/issues/1) in [codewizard13/ehw-php-scrape-linkedin-course-pics](https://github.com/codewizard13/ehw-php-scrape-linkedin-course-pics)
+3. ❗️ Opened issue [#2](https://github.com/codewizard13/ehw-php-scrape-linkedin-course-pics/issues/2) in [codewizard13/ehw-php-scrape-linkedin-course-pics](https://github.com/codewizard13/ehw-php-scrape-linkedin-course-pics)
+4. 🗣 Commented on [#1](https://github.com/codewizard13/ehw-php-scrape-linkedin-course-pics/issues/1) in [codewizard13/ehw-php-scrape-linkedin-course-pics](https://github.com/codewizard13/ehw-php-scrape-linkedin-course-pics)
+5. ❗️ Opened issue [#1](https://github.com/codewizard13/ehw-php-scrape-linkedin-course-pics/issues/1) in [codewizard13/ehw-php-scrape-linkedin-course-pics](https://github.com/codewizard13/ehw-php-scrape-linkedin-course-pics)
 <!--END_SECTION:activity-->
 
 [website]: https://erichepperle.com
