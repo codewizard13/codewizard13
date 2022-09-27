@@ -84,7 +84,7 @@
 - [NOTES: 2021-04-26 | Thoughts on PHP and Life](https://erichepperle.com/notes-20210426-php-linkedinlearning/)
 - [PHP Fatal Error: Call to Member Function on Array](https://erichepperle.com/linkedin-learning-php-fatal-error-call-member-function-array/)
 - [Code Sample: JavaScript ES6 – Scrape OneTab Links &lpar;2018&rpar;](https://erichepperle.com/code-sample-es6-scrape-onetab-links/)
-- [Quick Tip: Download Entire Playlist with Youtube-DL CLI](https://erichepperle.com/youtube-dl-playlist-download/)
+- [Quora: What workflow do you recommend for UX redesign on an existing website?](https://erichepperle.com/quora-what-workflow-do-you-recommend-for-ux-redesign-on-an-existing-website/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://erichepperle.com/category/programming-coding)
