@@ -96,7 +96,7 @@
 :zap: Recent GitHub Activity
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#107](https://github.com/webtoolsgroup/InstantWP/issues/107) in [webtoolsgroup/InstantWP](https://github.com/webtoolsgroup/InstantWP)
+1. ❗️ Opened issue [#1](https://github.com/codewizard13/ehw-app-upwork-proposal-helper/issues/1) in [codewizard13/ehw-app-upwork-proposal-helper](https://github.com/codewizard13/ehw-app-upwork-proposal-helper)
 2. 🗣 Commented on [#1](https://github.com/codewizard13/ehw-php-scrape-linkedin-course-pics/issues/1) in [codewizard13/ehw-php-scrape-linkedin-course-pics](https://github.com/codewizard13/ehw-php-scrape-linkedin-course-pics)
 3. ❗️ Opened issue [#2](https://github.com/codewizard13/ehw-php-scrape-linkedin-course-pics/issues/2) in [codewizard13/ehw-php-scrape-linkedin-course-pics](https://github.com/codewizard13/ehw-php-scrape-linkedin-course-pics)
 4. 🗣 Commented on [#1](https://github.com/codewizard13/ehw-php-scrape-linkedin-course-pics/issues/1) in [codewizard13/ehw-php-scrape-linkedin-course-pics](https://github.com/codewizard13/ehw-php-scrape-linkedin-course-pics)
