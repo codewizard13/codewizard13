@@ -11,6 +11,11 @@
   - [Modern JavaScript](https://github.com/codewizard13/ehw-tutwrk-traversy-mod-js) ReactJS, Flow, Hack
 - 👯 I’m looking to collaborate with other developers
 - 🥅 2022 Goals: Master [modern web development workflow](https://www.udemy.com/course/git-a-web-developer-job-mastering-the-modern-workflow)
+- 🌱 Groups, Projects, & Contributions:
+  - [Underdog Devs](https://github.com/Underdog-Devs):
+    - Building website mockups in Figma
+    - Doing **Neetcode Blind 75** coding challenges for Project Underdog
+  - **Open Source Beginner's Club**: Made my [first open source pull request](https://github.com/osbc2022/to-do-list/pull/22)
 - ⚡ Fun fact: I love to play guitar and used to be in a rock band
 
 ### Connect with me:
