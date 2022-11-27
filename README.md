@@ -80,11 +80,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [NOTES: 2021-04-26 | Notes on LinkedIn Learning PHP Videos](https://erichepperle.com/notes-20210426-php-linkedinlearning-2/)
-- [NOTES: 2021-04-26 | Thoughts on PHP and Life](https://erichepperle.com/notes-20210426-php-linkedinlearning/)
-- [PHP Fatal Error: Call to Member Function on Array](https://erichepperle.com/linkedin-learning-php-fatal-error-call-member-function-array/)
-- [Code Sample: JavaScript ES6 – Scrape OneTab Links &lpar;2018&rpar;](https://erichepperle.com/code-sample-es6-scrape-onetab-links/)
-- [Quora: What workflow do you recommend for UX redesign on an existing website?](https://erichepperle.com/quora-what-workflow-do-you-recommend-for-ux-redesign-on-an-existing-website/)
+- [Notes on LinkedIn Course “JavaScript Essential Training &lpar;2021&rpar;” Part 1](https://erichepperle.com/notes-on-linkedin-course-javascript-essential-training-2021-part-1/)
+- [Underdog Devs DevOps Group: Week 1 Homework](https://erichepperle.com/underdog-devs-devops-group-week-1-homework/)
+- [Project Underdog Cohort 4: Week 1 Report](https://erichepperle.com/project-underdog-cohort-4-week-1-report/)
+- [Notes on LinkedIn Course “Designing a Book &lpar;2013&rpar;” Part 1](https://erichepperle.com/notes-on-linkedin-course-designing-a-book-2013-1/)
+- [Pop!_OS: The Best Windows Alternative for Developers?](https://erichepperle.com/pop-os-best-windows-alternative-for-developers/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://erichepperle.com/category/programming-coding)
