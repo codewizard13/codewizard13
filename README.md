@@ -2,7 +2,7 @@
 
 [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCp93Jok5b2D4-LbIM4ZNNqA?logo=youtube&logoColor=red&style=for-the-badge)][youtube]
 [![Website](https://img.shields.io/website?label=erichepperle.com&style=for-the-badge&url=https%3A%2F%2Ferichepperle.com)](https://erichepperle.com)
-[![Twitter Follow](https://img.shields.io/twitter/follow/EricLHepperle?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fcodewizard13&screen_name=EricLHepperle)
+[![Twitter Follow](https://img.shields.io/twitter/follow/EricHepperleWP?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fcodewizard13&screen_name=EricHepperleWP)
 
 ## I'm a Husband, Web Developer, and lover of Jesus Christ
 - 🌱 I’m currently learning: 
