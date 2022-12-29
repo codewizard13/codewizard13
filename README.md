@@ -101,7 +101,7 @@
 :zap: Recent GitHub Activity
   
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#1](https://github.com/codewizard13/ehw-php-card-game-demo/issues/1) in [codewizard13/ehw-php-card-game-demo](https://github.com/codewizard13/ehw-php-card-game-demo)
+1. ❗️ Opened issue [#1](https://github.com/codewizard13/ehw-algo-demos/issues/1) in [codewizard13/ehw-algo-demos](https://github.com/codewizard13/ehw-algo-demos)
 2. ❌ Closed PR [#7](https://github.com/curl-bash/sturdy-octo-doodle/pull/7) in [curl-bash/sturdy-octo-doodle](https://github.com/curl-bash/sturdy-octo-doodle)
 3. 🗣 Commented on [#7](https://github.com/curl-bash/sturdy-octo-doodle/issues/7) in [curl-bash/sturdy-octo-doodle](https://github.com/curl-bash/sturdy-octo-doodle)
 4. 💪 Opened PR [#7](https://github.com/curl-bash/sturdy-octo-doodle/pull/7) in [curl-bash/sturdy-octo-doodle](https://github.com/curl-bash/sturdy-octo-doodle)
