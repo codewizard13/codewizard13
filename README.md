@@ -101,11 +101,11 @@
 :zap: Recent GitHub Activity
   
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#1](https://github.com/codewizard13/ehw-algo-demos/issues/1) in [codewizard13/ehw-algo-demos](https://github.com/codewizard13/ehw-algo-demos)
-2. ❌ Closed PR [#7](https://github.com/curl-bash/sturdy-octo-doodle/pull/7) in [curl-bash/sturdy-octo-doodle](https://github.com/curl-bash/sturdy-octo-doodle)
-3. 🗣 Commented on [#7](https://github.com/curl-bash/sturdy-octo-doodle/issues/7) in [curl-bash/sturdy-octo-doodle](https://github.com/curl-bash/sturdy-octo-doodle)
-4. 💪 Opened PR [#7](https://github.com/curl-bash/sturdy-octo-doodle/pull/7) in [curl-bash/sturdy-octo-doodle](https://github.com/curl-bash/sturdy-octo-doodle)
-5. 🎉 Merged PR [#6](https://github.com/curl-bash/sturdy-octo-doodle/pull/6) in [curl-bash/sturdy-octo-doodle](https://github.com/curl-bash/sturdy-octo-doodle)
+1. 💪 Opened PR [#2](https://github.com/codewizard13/ehw-codechal-underdog-devs/pull/2) in [codewizard13/ehw-codechal-underdog-devs](https://github.com/codewizard13/ehw-codechal-underdog-devs)
+2. 💪 Opened PR [#13](https://github.com/curl-bash/sturdy-octo-doodle/pull/13) in [curl-bash/sturdy-octo-doodle](https://github.com/curl-bash/sturdy-octo-doodle)
+3. ❗️ Opened issue [#2](https://github.com/codewizard13/ehw-course-notes-builder/issues/2) in [codewizard13/ehw-course-notes-builder](https://github.com/codewizard13/ehw-course-notes-builder)
+4. ❗️ Opened issue [#1](https://github.com/codewizard13/ehw-course-notes-builder/issues/1) in [codewizard13/ehw-course-notes-builder](https://github.com/codewizard13/ehw-course-notes-builder)
+5. 💪 Opened PR [#11](https://github.com/curl-bash/sturdy-octo-doodle/pull/11) in [curl-bash/sturdy-octo-doodle](https://github.com/curl-bash/sturdy-octo-doodle)
 <!--END_SECTION:activity-->
 
 [website]: https://erichepperle.com
