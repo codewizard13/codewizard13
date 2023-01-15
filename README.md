@@ -101,11 +101,11 @@
 :zap: Recent GitHub Activity
   
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#2](https://github.com/codewizard13/ehw-codechal-underdog-devs/pull/2) in [codewizard13/ehw-codechal-underdog-devs](https://github.com/codewizard13/ehw-codechal-underdog-devs)
-2. 💪 Opened PR [#13](https://github.com/curl-bash/sturdy-octo-doodle/pull/13) in [curl-bash/sturdy-octo-doodle](https://github.com/curl-bash/sturdy-octo-doodle)
-3. ❗️ Opened issue [#2](https://github.com/codewizard13/ehw-course-notes-builder/issues/2) in [codewizard13/ehw-course-notes-builder](https://github.com/codewizard13/ehw-course-notes-builder)
-4. ❗️ Opened issue [#1](https://github.com/codewizard13/ehw-course-notes-builder/issues/1) in [codewizard13/ehw-course-notes-builder](https://github.com/codewizard13/ehw-course-notes-builder)
-5. 💪 Opened PR [#11](https://github.com/curl-bash/sturdy-octo-doodle/pull/11) in [curl-bash/sturdy-octo-doodle](https://github.com/curl-bash/sturdy-octo-doodle)
+1. 💪 Opened PR [#5](https://github.com/codewizard13/udd-group-project-carpooly/pull/5) in [codewizard13/udd-group-project-carpooly](https://github.com/codewizard13/udd-group-project-carpooly)
+2. 🎉 Merged PR [#4](https://github.com/codewizard13/udd-group-project-carpooly/pull/4) in [codewizard13/udd-group-project-carpooly](https://github.com/codewizard13/udd-group-project-carpooly)
+3. 💪 Opened PR [#4](https://github.com/codewizard13/udd-group-project-carpooly/pull/4) in [codewizard13/udd-group-project-carpooly](https://github.com/codewizard13/udd-group-project-carpooly)
+4. 🎉 Merged PR [#3](https://github.com/codewizard13/udd-group-project-carpooly/pull/3) in [codewizard13/udd-group-project-carpooly](https://github.com/codewizard13/udd-group-project-carpooly)
+5. 💪 Opened PR [#3](https://github.com/codewizard13/udd-group-project-carpooly/pull/3) in [codewizard13/udd-group-project-carpooly](https://github.com/codewizard13/udd-group-project-carpooly)
 <!--END_SECTION:activity-->
 
 [website]: https://erichepperle.com
