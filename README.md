@@ -101,11 +101,11 @@
 :zap: Recent GitHub Activity
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/codewizard13/ehw-codechal-underdog-devs/pull/2) in [codewizard13/ehw-codechal-underdog-devs](https://github.com/codewizard13/ehw-codechal-underdog-devs)
-2. 💪 Opened PR [#5](https://github.com/codewizard13/udd-group-project-carpooly/pull/5) in [codewizard13/udd-group-project-carpooly](https://github.com/codewizard13/udd-group-project-carpooly)
-3. 🎉 Merged PR [#4](https://github.com/codewizard13/udd-group-project-carpooly/pull/4) in [codewizard13/udd-group-project-carpooly](https://github.com/codewizard13/udd-group-project-carpooly)
-4. 💪 Opened PR [#4](https://github.com/codewizard13/udd-group-project-carpooly/pull/4) in [codewizard13/udd-group-project-carpooly](https://github.com/codewizard13/udd-group-project-carpooly)
-5. 🎉 Merged PR [#3](https://github.com/codewizard13/udd-group-project-carpooly/pull/3) in [codewizard13/udd-group-project-carpooly](https://github.com/codewizard13/udd-group-project-carpooly)
+1. 🎉 Merged PR [#5](https://github.com/codewizard13/udd-group-project-carpooly/pull/5) in [codewizard13/udd-group-project-carpooly](https://github.com/codewizard13/udd-group-project-carpooly)
+2. 🎉 Merged PR [#2](https://github.com/codewizard13/ehw-codechal-underdog-devs/pull/2) in [codewizard13/ehw-codechal-underdog-devs](https://github.com/codewizard13/ehw-codechal-underdog-devs)
+3. 💪 Opened PR [#5](https://github.com/codewizard13/udd-group-project-carpooly/pull/5) in [codewizard13/udd-group-project-carpooly](https://github.com/codewizard13/udd-group-project-carpooly)
+4. 🎉 Merged PR [#4](https://github.com/codewizard13/udd-group-project-carpooly/pull/4) in [codewizard13/udd-group-project-carpooly](https://github.com/codewizard13/udd-group-project-carpooly)
+5. 💪 Opened PR [#4](https://github.com/codewizard13/udd-group-project-carpooly/pull/4) in [codewizard13/udd-group-project-carpooly](https://github.com/codewizard13/udd-group-project-carpooly)
 <!--END_SECTION:activity-->
 
 [website]: https://erichepperle.com
