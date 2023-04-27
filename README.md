@@ -71,11 +71,11 @@
 
 ### <img align="left" alt="Stack Overflow" width="26px" src="./img/stackoverflow.svg" style="padding-right:3px;" /> Stack Overflow Activity
 <!-- STACKOVERFLOW:START -->
+- [Notepad++ Regex: Find all lines with UPPERCASE names, words, or tokens](https://stackoverflow.com/questions/75943829/notepad-regex-find-all-lines-with-uppercase-names-words-or-tokens)
 - [Answer by Eric Hepperle - CodeSlayer2010 for Auto Fit inner div grid to outer column and row height with CSS](https://stackoverflow.com/questions/75770934/auto-fit-inner-div-grid-to-outer-column-and-row-height-with-css/75772330#75772330)
 - [Auto Fit inner div grid to outer column and row height with CSS](https://stackoverflow.com/questions/75770934/auto-fit-inner-div-grid-to-outer-column-and-row-height-with-css)
 - [Regex for Strings without Consecutive Letters](https://stackoverflow.com/questions/74074917/regex-for-strings-without-consecutive-letters)
 - [Gulp: throw new ERR_INVALID_FILE_URL_PATH&lpar;&#39;must be absolute&#39;&rpar;](https://stackoverflow.com/questions/73169405/gulp-throw-new-err-invalid-file-url-pathmust-be-absolute)
-- [Answer by Eric Hepperle - CodeSlayer2010 for How do I override the CSS content property of a pseudo ::before/::after element?](https://stackoverflow.com/questions/72537963/how-do-i-override-the-css-content-property-of-a-pseudo-before-after-element/72537964#72537964)
 <!-- STACKOVERFLOW:END -->
 
 ➡️ [more Stack Overflow activity...](https://stackoverflow.com/users/1316396/eric-hepperle-codeslayer2010?tab=topactivity)
