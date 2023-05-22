@@ -101,9 +101,9 @@
 :zap: Recent GitHub Activity
   
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#48](https://github.com/wdgdc/Jarvis/issues/48) in [wdgdc/Jarvis](https://github.com/wdgdc/Jarvis)
-2. 🎉 Merged PR [#2](https://github.com/codewizard13/ehw-codechal-underdog-devs/pull/2) in [codewizard13/ehw-codechal-underdog-devs](https://github.com/codewizard13/ehw-codechal-underdog-devs)
-3. 💪 Opened PR [#5](https://github.com/codewizard13/udd-group-project-carpooly/pull/5) in [codewizard13/udd-group-project-carpooly](https://github.com/codewizard13/udd-group-project-carpooly)
+1. 🗣 Commented on [#48](https://github.com/wdgdc/Jarvis/issues/48) in [wdgdc/Jarvis](https://github.com/wdgdc/Jarvis)
+2. ❗️ Opened issue [#182865](https://github.com/microsoft/vscode/issues/182865) in [microsoft/vscode](https://github.com/microsoft/vscode)
+3. ❗️ Opened issue [#48](https://github.com/wdgdc/Jarvis/issues/48) in [wdgdc/Jarvis](https://github.com/wdgdc/Jarvis)
 4. 🎉 Merged PR [#4](https://github.com/codewizard13/udd-group-project-carpooly/pull/4) in [codewizard13/udd-group-project-carpooly](https://github.com/codewizard13/udd-group-project-carpooly)
 5. 💪 Opened PR [#4](https://github.com/codewizard13/udd-group-project-carpooly/pull/4) in [codewizard13/udd-group-project-carpooly](https://github.com/codewizard13/udd-group-project-carpooly)
 <!--END_SECTION:activity-->
