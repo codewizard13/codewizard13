@@ -101,10 +101,10 @@
 :zap: Recent GitHub Activity
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#48](https://github.com/wdgdc/Jarvis/issues/48) in [wdgdc/Jarvis](https://github.com/wdgdc/Jarvis)
-2. ❗ Opened issue [#182865](https://github.com/microsoft/vscode/issues/182865) in [microsoft/vscode](https://github.com/microsoft/vscode)
-3. ❗ Opened issue [#48](https://github.com/wdgdc/Jarvis/issues/48) in [wdgdc/Jarvis](https://github.com/wdgdc/Jarvis)
-4. 🎉 Merged PR [#4](https://github.com/codewizard13/udd-group-project-carpooly/pull/4) in [codewizard13/udd-group-project-carpooly](https://github.com/codewizard13/udd-group-project-carpooly)
+1. ❗ Opened issue [#909](https://github.com/dudaster/ele-custom-skin/issues/909) in [dudaster/ele-custom-skin](https://github.com/dudaster/ele-custom-skin)
+2. 🗣 Commented on [#48](https://github.com/wdgdc/Jarvis/issues/48) in [wdgdc/Jarvis](https://github.com/wdgdc/Jarvis)
+3. ❗ Opened issue [#182865](https://github.com/microsoft/vscode/issues/182865) in [microsoft/vscode](https://github.com/microsoft/vscode)
+4. ❗ Opened issue [#48](https://github.com/wdgdc/Jarvis/issues/48) in [wdgdc/Jarvis](https://github.com/wdgdc/Jarvis)
 5. 💪 Opened PR [#4](https://github.com/codewizard13/udd-group-project-carpooly/pull/4) in [codewizard13/udd-group-project-carpooly](https://github.com/codewizard13/udd-group-project-carpooly)
 <!--END_SECTION:activity-->
 
