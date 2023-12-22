@@ -101,11 +101,11 @@
 :zap: Recent GitHub Activity
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#21699](https://github.com/elementor/elementor/issues/21699#issuecomment-1841079982) in [elementor/elementor](https://github.com/elementor/elementor)
-2. 🗣 Commented on [#7835](https://github.com/elementor/elementor/issues/7835#issuecomment-1821784789) in [elementor/elementor](https://github.com/elementor/elementor)
-3. 🗣 Commented on [#9218](https://github.com/parcel-bundler/parcel/issues/9218#issuecomment-1701152194) in [parcel-bundler/parcel](https://github.com/parcel-bundler/parcel)
-4. 🗣 Commented on [#12168](https://github.com/WordPress/gutenberg/issues/12168#issuecomment-1627789677) in [WordPress/gutenberg](https://github.com/WordPress/gutenberg)
-5. ❗ Opened issue [#909](https://github.com/dudaster/ele-custom-skin/issues/909) in [dudaster/ele-custom-skin](https://github.com/dudaster/ele-custom-skin)
+1. ❗ Opened issue [#1](https://github.com/alexander-young/custom-elementor-widget/issues/1) in [alexander-young/custom-elementor-widget](https://github.com/alexander-young/custom-elementor-widget)
+2. 💪 Opened PR [#246](https://github.com/elementor/elementor-developers-docs/pull/246) in [elementor/elementor-developers-docs](https://github.com/elementor/elementor-developers-docs)
+3. ❗ Opened issue [#350](https://github.com/yzane/vscode-markdown-pdf/issues/350) in [yzane/vscode-markdown-pdf](https://github.com/yzane/vscode-markdown-pdf)
+4. 🗣 Commented on [#21699](https://github.com/elementor/elementor/issues/21699#issuecomment-1841079982) in [elementor/elementor](https://github.com/elementor/elementor)
+5. 🗣 Commented on [#7835](https://github.com/elementor/elementor/issues/7835#issuecomment-1821784789) in [elementor/elementor](https://github.com/elementor/elementor)
 <!--END_SECTION:activity-->
 
 [website]: https://erichepperle.com
