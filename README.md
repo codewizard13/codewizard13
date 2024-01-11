@@ -10,7 +10,9 @@
   - **Responsive mobile-first UI/UX Design** with **Figma**
   - [Modern JavaScript](https://github.com/codewizard13/ehw-tutwrk-traversy-mod-js) ReactJS, Flow, Hack
 - 👯 I’m looking to collaborate with other developers
-- 🥅 2022 Goals: Master [modern web development workflow](https://www.udemy.com/course/git-a-web-developer-job-mastering-the-modern-workflow)
+- 🥅 2024 Goals:
+  - Master [WordPress Theme Development from scratch](https://www.youtube.com/watch?v=WbGlhhRLEbA&list=PLgFB6lmeXFOpHnNmQ4fdIYA5X_9XhjJ9d&index=6)
+  - Master [modern web development workflow](https://www.udemy.com/course/git-a-web-developer-job-mastering-the-modern-workflow)
 - 🌱 Groups, Projects, & Contributions:
   - [Underdog Devs](https://github.com/Underdog-Devs):
     - Building website mockups in Figma
