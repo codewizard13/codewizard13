@@ -103,9 +103,9 @@
 :zap: Recent GitHub Activity
   
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#157](https://github.com/qjebbs/vscode-markdown-extended/issues/157) in [qjebbs/vscode-markdown-extended](https://github.com/qjebbs/vscode-markdown-extended)
-2. 🗣 Commented on [#20886](https://github.com/elementor/elementor/issues/20886#issuecomment-1877544919) in [elementor/elementor](https://github.com/elementor/elementor)
-3. ❗ Opened issue [#1](https://github.com/alexander-young/custom-elementor-widget/issues/1) in [alexander-young/custom-elementor-widget](https://github.com/alexander-young/custom-elementor-widget)
+1. 🗣 Commented on [#23930](https://github.com/elementor/elementor/issues/23930#issuecomment-1961704747) in [elementor/elementor](https://github.com/elementor/elementor)
+2. ❗ Opened issue [#157](https://github.com/qjebbs/vscode-markdown-extended/issues/157) in [qjebbs/vscode-markdown-extended](https://github.com/qjebbs/vscode-markdown-extended)
+3. 🗣 Commented on [#20886](https://github.com/elementor/elementor/issues/20886#issuecomment-1877544919) in [elementor/elementor](https://github.com/elementor/elementor)
 4. 💪 Opened PR [#246](https://github.com/elementor/elementor-developers-docs/pull/246) in [elementor/elementor-developers-docs](https://github.com/elementor/elementor-developers-docs)
 5. 🗣 Commented on [#7835](https://github.com/elementor/elementor/issues/7835#issuecomment-1821784789) in [elementor/elementor](https://github.com/elementor/elementor)
 <!--END_SECTION:activity-->
