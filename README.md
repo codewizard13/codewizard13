@@ -103,11 +103,11 @@
 :zap: Recent GitHub Activity
   
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#352](https://github.com/glenn2223/vscode-live-sass-compiler/issues/352) in [glenn2223/vscode-live-sass-compiler](https://github.com/glenn2223/vscode-live-sass-compiler)
-2. 🗣 Commented on [#350](https://github.com/glenn2223/vscode-live-sass-compiler/issues/350#issuecomment-2025119580) in [glenn2223/vscode-live-sass-compiler](https://github.com/glenn2223/vscode-live-sass-compiler)
-3. ❗ Opened issue [#350](https://github.com/glenn2223/vscode-live-sass-compiler/issues/350) in [glenn2223/vscode-live-sass-compiler](https://github.com/glenn2223/vscode-live-sass-compiler)
-4. 🗣 Commented on [#23930](https://github.com/elementor/elementor/issues/23930#issuecomment-1961704747) in [elementor/elementor](https://github.com/elementor/elementor)
-5. 🗣 Commented on [#7835](https://github.com/elementor/elementor/issues/7835#issuecomment-1821784789) in [elementor/elementor](https://github.com/elementor/elementor)
+1. 🗣 Commented on [#23684](https://github.com/elementor/elementor/issues/23684#issuecomment-2075488538) in [elementor/elementor](https://github.com/elementor/elementor)
+2. ❗ Opened issue [#352](https://github.com/glenn2223/vscode-live-sass-compiler/issues/352) in [glenn2223/vscode-live-sass-compiler](https://github.com/glenn2223/vscode-live-sass-compiler)
+3. 🗣 Commented on [#350](https://github.com/glenn2223/vscode-live-sass-compiler/issues/350#issuecomment-2025119580) in [glenn2223/vscode-live-sass-compiler](https://github.com/glenn2223/vscode-live-sass-compiler)
+4. ❗ Opened issue [#350](https://github.com/glenn2223/vscode-live-sass-compiler/issues/350) in [glenn2223/vscode-live-sass-compiler](https://github.com/glenn2223/vscode-live-sass-compiler)
+5. 🗣 Commented on [#23930](https://github.com/elementor/elementor/issues/23930#issuecomment-1961704747) in [elementor/elementor](https://github.com/elementor/elementor)
 <!--END_SECTION:activity-->
 
 [website]: https://erichepperle.com
