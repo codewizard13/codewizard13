@@ -103,8 +103,8 @@
 :zap: Recent GitHub Activity
   
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#214019](https://github.com/microsoft/vscode/issues/214019) in [microsoft/vscode](https://github.com/microsoft/vscode)
-2. 🗣 Commented on [#5005](https://github.com/elementor/elementor/issues/5005#issuecomment-2135043213) in [elementor/elementor](https://github.com/elementor/elementor)
+1. 🗣 Commented on [#12708](https://github.com/elementor/elementor/issues/12708#issuecomment-2289724114) in [elementor/elementor](https://github.com/elementor/elementor)
+2. ❗ Opened issue [#3895](https://github.com/johngodley/redirection/issues/3895) in [johngodley/redirection](https://github.com/johngodley/redirection)
 3. ❗ Opened issue [#27481](https://github.com/elementor/elementor/issues/27481) in [elementor/elementor](https://github.com/elementor/elementor)
 4. 🗣 Commented on [#23684](https://github.com/elementor/elementor/issues/23684#issuecomment-2075488538) in [elementor/elementor](https://github.com/elementor/elementor)
 5. ❗ Opened issue [#352](https://github.com/glenn2223/vscode-live-sass-compiler/issues/352) in [glenn2223/vscode-live-sass-compiler](https://github.com/glenn2223/vscode-live-sass-compiler)
