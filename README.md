@@ -103,11 +103,11 @@
 :zap: Recent GitHub Activity
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3895](https://github.com/johngodley/redirection/issues/3895#issuecomment-2299226538) in [johngodley/redirection](https://github.com/johngodley/redirection)
-2. 🗣 Commented on [#3895](https://github.com/johngodley/redirection/issues/3895#issuecomment-2297466097) in [johngodley/redirection](https://github.com/johngodley/redirection)
-3. 🗣 Commented on [#12708](https://github.com/elementor/elementor/issues/12708#issuecomment-2289724114) in [elementor/elementor](https://github.com/elementor/elementor)
-4. ❗ Opened issue [#3895](https://github.com/johngodley/redirection/issues/3895) in [johngodley/redirection](https://github.com/johngodley/redirection)
-5. ❗ Opened issue [#352](https://github.com/glenn2223/vscode-live-sass-compiler/issues/352) in [glenn2223/vscode-live-sass-compiler](https://github.com/glenn2223/vscode-live-sass-compiler)
+1. 🗣 Commented on [#3895](https://github.com/johngodley/redirection/issues/3895#issuecomment-2307496776) in [johngodley/redirection](https://github.com/johngodley/redirection)
+2. 🗣 Commented on [#3895](https://github.com/johngodley/redirection/issues/3895#issuecomment-2299226538) in [johngodley/redirection](https://github.com/johngodley/redirection)
+3. 🗣 Commented on [#3895](https://github.com/johngodley/redirection/issues/3895#issuecomment-2297466097) in [johngodley/redirection](https://github.com/johngodley/redirection)
+4. 🗣 Commented on [#12708](https://github.com/elementor/elementor/issues/12708#issuecomment-2289724114) in [elementor/elementor](https://github.com/elementor/elementor)
+5. ❗ Opened issue [#3895](https://github.com/johngodley/redirection/issues/3895) in [johngodley/redirection](https://github.com/johngodley/redirection)
 <!--END_SECTION:activity-->
 
 [website]: https://erichepperle.com
