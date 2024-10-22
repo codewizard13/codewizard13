@@ -103,11 +103,11 @@
 :zap: Recent GitHub Activity
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#214019](https://github.com/microsoft/vscode/issues/214019#issuecomment-2358817322) in [microsoft/vscode](https://github.com/microsoft/vscode)
-2. 🗣 Commented on [#214019](https://github.com/microsoft/vscode/issues/214019#issuecomment-2358813203) in [microsoft/vscode](https://github.com/microsoft/vscode)
-3. 🗣 Commented on [#64574](https://github.com/WordPress/gutenberg/pull/64574#issuecomment-2358796069) in [WordPress/gutenberg](https://github.com/WordPress/gutenberg)
-4. 🗣 Commented on [#3895](https://github.com/johngodley/redirection/issues/3895#issuecomment-2307496776) in [johngodley/redirection](https://github.com/johngodley/redirection)
-5. 🗣 Commented on [#3895](https://github.com/johngodley/redirection/issues/3895#issuecomment-2299226538) in [johngodley/redirection](https://github.com/johngodley/redirection)
+1. 🗣 Commented on [#157](https://github.com/adminerevo/adminerevo/issues/157#issuecomment-2426942853) in [adminerevo/adminerevo](https://github.com/adminerevo/adminerevo)
+2. 🗣 Commented on [#23684](https://github.com/elementor/elementor/issues/23684#issuecomment-2423144772) in [elementor/elementor](https://github.com/elementor/elementor)
+3. 🗣 Commented on [#214019](https://github.com/microsoft/vscode/issues/214019#issuecomment-2423116198) in [microsoft/vscode](https://github.com/microsoft/vscode)
+4. 🗣 Commented on [#214019](https://github.com/microsoft/vscode/issues/214019#issuecomment-2358817322) in [microsoft/vscode](https://github.com/microsoft/vscode)
+5. 🗣 Commented on [#214019](https://github.com/microsoft/vscode/issues/214019#issuecomment-2358813203) in [microsoft/vscode](https://github.com/microsoft/vscode)
 <!--END_SECTION:activity-->
 
 [website]: https://erichepperle.com
