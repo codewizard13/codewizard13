@@ -103,11 +103,11 @@
 :zap: Recent GitHub Activity
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#161](https://github.com/qjebbs/vscode-markdown-extended/issues/161#issuecomment-2460893944) in [qjebbs/vscode-markdown-extended](https://github.com/qjebbs/vscode-markdown-extended)
-2. 🔒 Closed issue [#3895](https://github.com/johngodley/redirection/issues/3895) in [johngodley/redirection](https://github.com/johngodley/redirection)
-3. 🗣 Commented on [#3895](https://github.com/johngodley/redirection/issues/3895#issuecomment-2432922037) in [johngodley/redirection](https://github.com/johngodley/redirection)
-4. 🗣 Commented on [#157](https://github.com/adminerevo/adminerevo/issues/157#issuecomment-2426942853) in [adminerevo/adminerevo](https://github.com/adminerevo/adminerevo)
-5. 🗣 Commented on [#23684](https://github.com/elementor/elementor/issues/23684#issuecomment-2423144772) in [elementor/elementor](https://github.com/elementor/elementor)
+1. 🗣 Commented on [#6560](https://github.com/microsoft/vscode/issues/6560#issuecomment-2485774441) in [microsoft/vscode](https://github.com/microsoft/vscode)
+2. 🗣 Commented on [#161](https://github.com/qjebbs/vscode-markdown-extended/issues/161#issuecomment-2460893944) in [qjebbs/vscode-markdown-extended](https://github.com/qjebbs/vscode-markdown-extended)
+3. 🔒 Closed issue [#3895](https://github.com/johngodley/redirection/issues/3895) in [johngodley/redirection](https://github.com/johngodley/redirection)
+4. 🗣 Commented on [#3895](https://github.com/johngodley/redirection/issues/3895#issuecomment-2432922037) in [johngodley/redirection](https://github.com/johngodley/redirection)
+5. 🗣 Commented on [#157](https://github.com/adminerevo/adminerevo/issues/157#issuecomment-2426942853) in [adminerevo/adminerevo](https://github.com/adminerevo/adminerevo)
 <!--END_SECTION:activity-->
 
 [website]: https://erichepperle.com
