@@ -6,6 +6,7 @@
 
 ## I'm a Husband, Web Developer, and Lover of Jesus Christ ✝
 - 🌱 I’m currently learning: 
+  - **Docker Desktop**
   - **WordPress Web Development** (plugins & themes from scratch)
   - **Responsive mobile-first UI/UX Design** with **Figma**
   - [Modern JavaScript](https://github.com/codewizard13/ehw-tutwrk-traversy-mod-js) ReactJS, Flow, Hack
