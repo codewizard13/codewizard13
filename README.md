@@ -104,7 +104,7 @@
 :zap: Recent GitHub Activity
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#55](https://github.com/wp-cli/config-command/issues/55#issuecomment-2493829957) in [wp-cli/config-command](https://github.com/wp-cli/config-command)
+1. 🗣 Commented on [#539](https://github.com/wp-bootstrap/wp-bootstrap-navwalker/issues/539#issuecomment-2679629556) in [wp-bootstrap/wp-bootstrap-navwalker](https://github.com/wp-bootstrap/wp-bootstrap-navwalker)
 2. 🗣 Commented on [#6560](https://github.com/microsoft/vscode/issues/6560#issuecomment-2485774441) in [microsoft/vscode](https://github.com/microsoft/vscode)
 3. 🗣 Commented on [#161](https://github.com/qjebbs/vscode-markdown-extended/issues/161#issuecomment-2460893944) in [qjebbs/vscode-markdown-extended](https://github.com/qjebbs/vscode-markdown-extended)
 4. 🔒 Closed issue [#3895](https://github.com/johngodley/redirection/issues/3895) in [johngodley/redirection](https://github.com/johngodley/redirection)
