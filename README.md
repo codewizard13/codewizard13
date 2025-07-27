@@ -88,11 +88,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Project Deliverables: Figma Mockups for Underdog Devs website redesign](https://erichepperle.com/underdog-devs-figma-mockups/)
-- [Notes on LinkedIn Course “JavaScript Essential Training &lpar;2021&rpar;” Part 1](https://erichepperle.com/notes-on-linkedin-course-javascript-essential-training-2021-part-1/)
-- [Underdog Devs DevOps Group: Week 1 Homework](https://erichepperle.com/underdog-devs-devops-group-week-1-homework/)
-- [Project Underdog Cohort 4: Week 1 Report](https://erichepperle.com/project-underdog-cohort-4-week-1-report/)
+- [Test Post 1](https://erichepperle.com/test-post-1/)
 - [Notes on LinkedIn Course “Designing a Book &lpar;2013&rpar;” Part 1](https://erichepperle.com/notes-on-linkedin-course-designing-a-book-2013-1/)
+- [Pop!_OS: The Best Windows Alternative for Developers?](https://erichepperle.com/pop-os-best-windows-alternative-for-developers/)
+- [Website Design: Organic Harvest Ministries](https://erichepperle.com/website-design-organic-harvest-ministries/)
+- [Website Design: Hepkat Organics](https://erichepperle.com/website-design-hepkat-organics/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://erichepperle.com/category/programming-coding)
