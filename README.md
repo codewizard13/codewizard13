@@ -104,9 +104,9 @@
 :zap: Recent GitHub Activity
   
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#43](https://github.com/getflywheel/local-addon-notes/issues/43) in [getflywheel/local-addon-notes](https://github.com/getflywheel/local-addon-notes)
-2. 🗣 Commented on [#6560](https://github.com/microsoft/vscode/issues/6560#issuecomment-2485774441) in [microsoft/vscode](https://github.com/microsoft/vscode)
-3. 🗣 Commented on [#161](https://github.com/qjebbs/vscode-markdown-extended/issues/161#issuecomment-2460893944) in [qjebbs/vscode-markdown-extended](https://github.com/qjebbs/vscode-markdown-extended)
+1. 🎉 Merged PR [#1](https://github.com/codewizard13/ehw-cheatsheets/pull/1) in [codewizard13/ehw-cheatsheets](https://github.com/codewizard13/ehw-cheatsheets)
+2. 🗣 Commented on [#1](https://github.com/codewizard13/ehw-cheatsheets/pull/1#issuecomment-3293704269) in [codewizard13/ehw-cheatsheets](https://github.com/codewizard13/ehw-cheatsheets)
+3. 💪 Opened PR [#1](https://github.com/codewizard13/ehw-cheatsheets/pull/1) in [codewizard13/ehw-cheatsheets](https://github.com/codewizard13/ehw-cheatsheets)
 4. 🔒 Closed issue [#3895](https://github.com/johngodley/redirection/issues/3895) in [johngodley/redirection](https://github.com/johngodley/redirection)
 5. 🗣 Commented on [#3895](https://github.com/johngodley/redirection/issues/3895#issuecomment-2432922037) in [johngodley/redirection](https://github.com/johngodley/redirection)
 <!--END_SECTION:activity-->
