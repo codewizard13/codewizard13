@@ -104,11 +104,11 @@
 :zap: Recent GitHub Activity
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/codewizard13/ehw-cheatsheets/pull/2) in [codewizard13/ehw-cheatsheets](https://github.com/codewizard13/ehw-cheatsheets)
-2. 💪 Opened PR [#2](https://github.com/codewizard13/ehw-cheatsheets/pull/2) in [codewizard13/ehw-cheatsheets](https://github.com/codewizard13/ehw-cheatsheets)
-3. 🎉 Merged PR [#4](https://github.com/codewizard13/ehw-tut-boot.dev/pull/4) in [codewizard13/ehw-tut-boot.dev](https://github.com/codewizard13/ehw-tut-boot.dev)
-4. 💪 Opened PR [#4](https://github.com/codewizard13/ehw-tut-boot.dev/pull/4) in [codewizard13/ehw-tut-boot.dev](https://github.com/codewizard13/ehw-tut-boot.dev)
-5. 🎉 Merged PR [#3](https://github.com/codewizard13/ehw-starter-tut-02/pull/3) in [codewizard13/ehw-starter-tut-02](https://github.com/codewizard13/ehw-starter-tut-02)
+1. 🎉 Merged PR [#5](https://github.com/codewizard13/ehw-tut-boot.dev/pull/5) in [codewizard13/ehw-tut-boot.dev](https://github.com/codewizard13/ehw-tut-boot.dev)
+2. 💪 Opened PR [#5](https://github.com/codewizard13/ehw-tut-boot.dev/pull/5) in [codewizard13/ehw-tut-boot.dev](https://github.com/codewizard13/ehw-tut-boot.dev)
+3. 🎉 Merged PR [#2](https://github.com/codewizard13/ehw-cheatsheets/pull/2) in [codewizard13/ehw-cheatsheets](https://github.com/codewizard13/ehw-cheatsheets)
+4. 💪 Opened PR [#2](https://github.com/codewizard13/ehw-cheatsheets/pull/2) in [codewizard13/ehw-cheatsheets](https://github.com/codewizard13/ehw-cheatsheets)
+5. 🎉 Merged PR [#4](https://github.com/codewizard13/ehw-tut-boot.dev/pull/4) in [codewizard13/ehw-tut-boot.dev](https://github.com/codewizard13/ehw-tut-boot.dev)
 <!--END_SECTION:activity-->
 
 [website]: https://erichepperle.com
