@@ -104,11 +104,11 @@
 :zap: Recent GitHub Activity
   
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#5](undefined) in [codewizard13/ehw-cheatsheets](https://github.com/codewizard13/ehw-cheatsheets)
-2. 💪 Opened PR [#1](undefined) in [codewizard13/ehw-ohm](https://github.com/codewizard13/ehw-ohm)
-3. 🗣 Commented on [#9](https://github.com/codewizard13/ehw-tut-boot.dev/pull/9#issuecomment-3398992294) in [codewizard13/ehw-tut-boot.dev](https://github.com/codewizard13/ehw-tut-boot.dev)
-4. 💪 Opened PR [#9](undefined) in [codewizard13/ehw-tut-boot.dev](https://github.com/codewizard13/ehw-tut-boot.dev)
-5. 🗣 Commented on [#8](https://github.com/codewizard13/ehw-tut-boot.dev/pull/8#issuecomment-3398159415) in [codewizard13/ehw-tut-boot.dev](https://github.com/codewizard13/ehw-tut-boot.dev)
+1. 💪 Opened PR [#6](undefined) in [codewizard13/ehw-cheatsheets](https://github.com/codewizard13/ehw-cheatsheets)
+2. 💪 Opened PR [#5](undefined) in [codewizard13/ehw-cheatsheets](https://github.com/codewizard13/ehw-cheatsheets)
+3. 💪 Opened PR [#1](undefined) in [codewizard13/ehw-ohm](https://github.com/codewizard13/ehw-ohm)
+4. 🗣 Commented on [#9](https://github.com/codewizard13/ehw-tut-boot.dev/pull/9#issuecomment-3398992294) in [codewizard13/ehw-tut-boot.dev](https://github.com/codewizard13/ehw-tut-boot.dev)
+5. 💪 Opened PR [#9](undefined) in [codewizard13/ehw-tut-boot.dev](https://github.com/codewizard13/ehw-tut-boot.dev)
 <!--END_SECTION:activity-->
 
 [website]: https://erichepperle.com
