@@ -104,11 +104,11 @@
 :zap: Recent GitHub Activity
   
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1](undefined) in [codewizard13/ehw-coursework-udemy](https://github.com/codewizard13/ehw-coursework-udemy)
-2. ❌ Closed PR [#5](undefined) in [codewizard13/ehw-starter-tut-02](https://github.com/codewizard13/ehw-starter-tut-02)
-3. 💪 Opened PR [#5](undefined) in [codewizard13/ehw-starter-tut-02](https://github.com/codewizard13/ehw-starter-tut-02)
-4. 💪 Opened PR [#4](undefined) in [codewizard13/ehw-starter-tut-02](https://github.com/codewizard13/ehw-starter-tut-02)
-5. 💪 Opened PR [#15](undefined) in [codewizard13/ehw-tut-boot.dev](https://github.com/codewizard13/ehw-tut-boot.dev)
+1. 💪 Opened PR [#2](undefined) in [codewizard13/ehw-coursework-udemy](https://github.com/codewizard13/ehw-coursework-udemy)
+2. 💪 Opened PR [#1](undefined) in [codewizard13/ehw-coursework-udemy](https://github.com/codewizard13/ehw-coursework-udemy)
+3. ❌ Closed PR [#5](undefined) in [codewizard13/ehw-starter-tut-02](https://github.com/codewizard13/ehw-starter-tut-02)
+4. 💪 Opened PR [#5](undefined) in [codewizard13/ehw-starter-tut-02](https://github.com/codewizard13/ehw-starter-tut-02)
+5. 💪 Opened PR [#4](undefined) in [codewizard13/ehw-starter-tut-02](https://github.com/codewizard13/ehw-starter-tut-02)
 <!--END_SECTION:activity-->
 
 [website]: https://erichepperle.com
