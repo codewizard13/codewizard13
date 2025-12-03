@@ -21,52 +21,62 @@ Open to remote full-time or contract WordPress / PHP roles.
 
 ---
 
+## Skills & Tools
+
+### Primary Stack  
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+### Tooling & Workflows  
+![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Plesk](https://img.shields.io/badge/Plesk-52B0E7?style=for-the-badge&logo=plesk&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Asana](https://img.shields.io/badge/Asana-273347?style=for-the-badge&logo=asana&logoColor=F06A6A)
+
+### Learning  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+
+---
+
 ## Featured Work
 
 - **ElijahStreams / Elijah List Ministries – Full-Stack WordPress Developer & Site Architect (2023–2025)**  
   Legacy LAMP → WordPress migration, Elementor extraction, custom Bootstrap classic theme, CPTs, livestream directory, and performance tuning.  
-👉 https://github.com/codewizard13/case-study-elijahstreams
+👉 [https://github.com/codewizard13/case-study-elijahstreams](https://github.com/codewizard13/case-study-elijahstreams)
 
 - **WordPress Multisite Tutorial**  
   Screencast explaining how to install, set up, and configure WordPress Multisite.  
-  👉 https://www.youtube.com/watch?v=LugDsyNV-P8
+  👉 [YouTube Video](https://www.youtube.com/watch?v=LugDsyNV-P8)
 
 - **JavaScript + Local Storage Demo**  
   Practical example using ES6 array methods and HTML5 Local Storage for a small app.  
-  👉 https://www.youtube.com/watch?v=W8s-LcXU-io
+  👉 [YouTube Demo](https://www.youtube.com/watch?v=W8s-LcXU-io)
 
 - **Selected Blog Posts**  
-  - Website Design: Organic Harvest Ministries – https://erichepperle.com/website-design-organic-harvest-ministries/  
-  - Website Design: Hepkat Organics – https://erichepperle.com/website-design-hepkat-organics/  
-  - Pop!_OS: The Best Windows Alternative for Developers? – https://erichepperle.com/pop-os-best-windows-alternative-for-developers/
-
----
-
-## Skills
-
-**Primary stack**  
-- PHP · WordPress (themes, plugins, ACF, CPTs) · JavaScript · MySQL  
-- HTML5 · CSS3 · Sass · Bootstrap · responsive UI/UX  
-
-**Tooling & workflows**  
-- Git · GitHub · Plesk · Docker Desktop (learning)  
-- VS Code · Figma · Asana  
-
-**Currently learning (beginner level)**  
-- Python – basic syntax and scripting  
-- React – core concepts (components, JSX) and small practice UIs  
+  - [Website Design: Organic Harvest Ministries](https://erichepperle.com/website-design-organic-harvest-ministries/)  
+  - [Website Design: Hepkat Organics](https://erichepperle.com/website-design-hepkat-organics/)  
+  - [Pop!_OS: The Best Windows Alternative for Developers?](https://erichepperle.com/pop-os-best-windows-alternative-for-developers/)
 
 ---
 
 ## Community & Contributions
 
 - 🧩 **Stack Overflow** – answering questions about WordPress, ACF, and web dev  
-  - Profile: https://stackoverflow.com/users/1316396/eric-hepperle-codeslayer2010
+  [https://stackoverflow.com/users/1316396/eric-hepperle-codeslayer2010](https://stackoverflow.com/users/1316396/eric-hepperle-codeslayer2010)
 
-- 👥 **Groups & Projects**
-  - Underdog Devs – Figma mockups, Neetcode Blind 75 practice
-  - Open Source Beginner’s Club – first open-source PR:  
-    https://github.com/osbc2022/to-do-list/pull/22
+- 👥 **Groups & Projects**  
+  - Underdog Devs – Figma mockups, Neetcode Blind 75 practice  
+  - Open Source Beginner’s Club – first open-source PR: [PR #22](https://github.com/osbc2022/to-do-list/pull/22)
 
 ---
 
@@ -74,11 +84,11 @@ Open to remote full-time or contract WordPress / PHP roles.
 
 ### 📺 YouTube (Selected)
 
-- InDesign: Angled Split-Panel Facebook Banner (pt 1) – https://www.youtube.com/watch?v=82kBnmWmBuU  
-- WordPress Multisite Tutorial – https://www.youtube.com/watch?v=LugDsyNV-P8  
-- JavaScript: Mapping ES6 arrays with HTML5 Local Storage – https://www.youtube.com/watch?v=W8s-LcXU-io  
+- [InDesign: Angled Split-Panel Facebook Banner (pt 1)](https://www.youtube.com/watch?v=82kBnmWmBuU)  
+- [WordPress Multisite Tutorial](https://www.youtube.com/watch?v=LugDsyNV-P8)  
+- [JavaScript: Mapping ES6 arrays with HTML5 Local Storage](https://www.youtube.com/watch?v=W8s-LcXU-io)  
 
-➡️ More videos: https://www.youtube.com/channel/UCp93Jok5b2D4-LbIM4ZNNqA
+➡️ More videos: [YouTube Channel](https://www.youtube.com/channel/UCp93Jok5b2D4-LbIM4ZNNqA)
 
 ---
 
@@ -92,6 +102,6 @@ Open to remote full-time or contract WordPress / PHP roles.
 
 - 👀 Open to: Remote full-time WordPress / PHP roles, or contract work on site rebuilds, migrations, and performance tuning
 - 📬 Best contact:  
-  - Website: https://erichepperle.com  
-  - LinkedIn: https://linkedin.com/in/erichepperle  
+  - Website: [erichepperle.com](https://erichepperle.com)  
+  - LinkedIn: [linkedin.com/in/erichepperle](https://linkedin.com/in/erichepperle)  
 - 🙌 Happy to chat about ministry / nonprofit projects and long-term platform architecture
