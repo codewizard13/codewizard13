@@ -15,7 +15,7 @@ Open to remote full-time or contract WordPress / PHP roles.
 - 💼 Full-stack WordPress developer & site architect (themes, plugins, migrations, performance)
 - 🛠 **Recent work**: Rebuilt the ElijahStreams / Elijah List Ministries platform  
   (legacy LAMP → WordPress, then Elementor → custom Bootstrap-based theme)
-- 🌱 **Currently leveling up**: Python (beginner), React (beginner)
+- 🌱 **Currently leveling up**: Python (beginner), React (beginner), Docker (beginner)
 - 🤝 Enjoy collaborating with other developers and mentoring beginners
 - ✝ Follower of Jesus Christ; love building tools that serve people and ministries
 
